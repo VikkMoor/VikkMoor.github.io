@@ -1,3 +1,5 @@
+var x = prompt("Enter your name");
+alert(`Hello, dear ${x}!`);
 
 function app() {
         var message = document.getElementById("text").value;
